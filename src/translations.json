@@ -1,0 +1,14 @@
+{
+  "Welcome to React": {
+    "es": "Bienvenido a React",
+    "de": "Willkommen in React"
+  },
+  "To get started, edit": {
+    "es": "Para empezar, edita",
+    "de": "Um loszulegen, bearbeiten"
+  },
+  "and save to reload.": {
+    "es": "y guarda para refrescar la pagina",
+    "de": "und speichern, um neu zu laden"
+  }
+}
